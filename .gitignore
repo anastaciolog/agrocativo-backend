@@ -1,0 +1,22 @@
+
+node_modules
+dist
+coverage
+docs
+.env
+yarn.lock
+public/
+
+# Eclipse project settings
+.project
+.settings
+
+# Visual Studio Code project settings
+*.code-workspace
+.vscode
+.DS_Store
+# Firebase API Key
+lure-d0856-firebase-adminsdk-vvwh3-5ae0b1a6d8.json
+
+certs/producao-348047-conectpets.p12
+certs/homologacao-348047-conectpets.p12
